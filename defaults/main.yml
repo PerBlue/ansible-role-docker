@@ -18,4 +18,4 @@ docker_yum_repo_url: https://download.docker.com/linux/centos/docker-{{ docker_e
 docker_yum_repo_enable_edge: 0
 docker_yum_repo_enable_test: 0
 
-container_selinux_version: 2.21-1
+container_selinux_version: 2.68-1
